@@ -1,0 +1,51 @@
+body {
+    font-family: monospace;
+    color: white;
+    background-color: black;
+}
+
+#paperBtn {
+    background-color: red;
+    border: none;
+    border-radius: 0.5em;
+    height: 80px;
+    width: 80px;
+    font-size: 50px;
+    text-align: center;
+}
+
+#paperBtn:hover {
+    background-color: black;
+}
+
+#scissorsBtn {
+    background-color: lime;
+    border: none;
+    border-radius: 0.5em;
+    height: 80px;
+    width: 80px;
+    font-size: 50px;
+    text-align: center;
+}
+
+#scissorsBtn:hover {
+    background-color: black;
+}
+
+#rockBtn {
+    background-color: aqua;
+    border: none;
+    border-radius: 0.5em;
+    height: 80px;
+    width: 80px;
+    font-size: 50px;
+    text-align: center;
+}
+
+#rockBtn:hover {
+    background-color: black;
+}
+
+.main {
+    padding-top: 180px;
+}
